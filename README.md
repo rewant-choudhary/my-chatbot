@@ -32,6 +32,6 @@ A **custom conversational AI chatbot** built with **TensorFlow & Keras** for int
 
 ## 📦 Installation
 ```bash
-git clone https://github.com/shreyanshjain08/My-Chatbot.git
+git clone https://github.com/rewant-choudhary/my-chatbot.git
 cd My-Chatbot
 pip install -r requirements.txt
